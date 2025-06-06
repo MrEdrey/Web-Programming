@@ -1,10 +1,10 @@
-# 🧠 Math Challenge PHP Scripts
+# Math Challenge PHP Scripts
 
 This repository contains PHP scripts that solve three different programming challenges. Each challenge is implemented in multiple versions to demonstrate the step-by-step development process and improvements over time.
 
 ---
 
-## 🧮 Activity A: Weighted Grade Computation
+## Activity A: Weighted Grade Computation
 
 **📋 Description:**  
 The user inputs four grades and their corresponding weights. The program calculates the weighted average and prints the final grade.
