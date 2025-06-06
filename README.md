@@ -59,6 +59,37 @@ Ana 2\
 4\
 ...
 
+### 🔹 Version 0.3
+- Version 0.4 includes improved input handling and better support for multiple subjects.
+
+**How works:**
+- Start by entering the number of students.
+- Enter the student’s name and the number of subjects they have, separated by a space.
+- Enter the subject name followed by 8 values: 4 grades and their respective weights.
+- Repeat the process for all students and all their subjects.
+
+**Input exemple:**
+
+2 (Number of students)\
+Ana_Silva 2 (Student name and number of grades)\
+Matemática 7 2 8 2 9 2 10 2 (Subject and its respective grades/weights)\
+Português 6 3 5 2 7 2 8 3\
+Bruno_Costa 2\
+História 5 2 6 2 7 3 8 3\
+Geografia 9 2 8 1 10 3 7 2\
+
+**Output exemple**
+
+Student: Ana_Silva\
+Subjects: 2\
+Matemática #1: 8.5\
+Português #2: 6.6\
+
+Student: Bruno_Costa\
+Subjects: 2\
+História #1: 6.7\
+Geografia #2: 8.8\
+
 ---
 
 ## 💻 How to Run
