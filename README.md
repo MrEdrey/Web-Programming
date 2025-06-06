@@ -1,5 +1,3 @@
- # Web-Programming
-
 # 🧠 Math Challenge PHP Scripts
 
 This repository contains PHP scripts that solve three different programming challenges. Each challenge is implemented in multiple versions to demonstrate the step-by-step development process and improvements over time.
