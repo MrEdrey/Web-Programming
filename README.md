@@ -30,7 +30,6 @@ The user inputs four grades and their corresponding weights. The program calcula
 - Code improved using a while loop.
 
 ### 🔹 Version 0.3
-- Refactored with separate functions for input, validation, and calculation.
 - It is now possible to calculate the grade for multiple students, and also to separate them by name.
 
 **How works:**
