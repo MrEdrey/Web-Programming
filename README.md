@@ -20,10 +20,10 @@ The user inputs four grades and their corresponding weights. The program calcula
 
 **Input exemple:**
 
-Grade: 10
-Weight: 3
-Grade: 10
-Weight: 4
+Grade: 10\
+Weight: 3\
+Grade: 10\
+Weight: 4\
 ...
 
 ### 🔹 Version 0.2
