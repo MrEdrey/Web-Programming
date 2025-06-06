@@ -76,19 +76,19 @@ Matemática 7 2 8 2 9 2 10 2 *(Subject and its respective grades/weights)*\
 Português 6 3 5 2 7 2 8 3\
 Bruno_Costa 2\
 História 5 2 6 2 7 3 8 3\
-Geografia 9 2 8 1 10 3 7 2 \
- 
+Geografia 9 2 8 1 10 3 7 2
+
 **Output exemple**
- 
+
 Student: Ana_Silva \
 Subjects: 2\
 Matemática #1: 8.5\
-Português #2: 6.6 \
- 
+Português #2: 6.6
+
 Student: Bruno_Costa \
 Subjects: 2\
 História #1: 6.7\
-Geografia #2: 8.8\
+Geografia #2: 8.8
 
 ---
 
