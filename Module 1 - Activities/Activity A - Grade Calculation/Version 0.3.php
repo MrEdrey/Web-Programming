@@ -1,11 +1,10 @@
 <?php
+fscanf(STDIN,"%d",$students_number);
+while($students_number > 0){
 $checker = 4;
 $dividend = 0;
 $divisor = 0;
 $count = 1;
-
-fscanf(STDIN,"%d",$students_number);
-while($students_number > 0){
 fscanf(STDIN,"%s%d",$name,$subjects);
 echo "Student: $name\nSubjects: $subjects\n";
 while($subjects > 0){
