@@ -20,8 +20,8 @@ The user inputs four grades and their corresponding weights. The program calcula
 
 **Input exemple:**
 
-10 (Grade)\
-3 (Weight)\
+10 *(Grade)*\
+3 *(Weight)*\
 10\
 4\
 ...
@@ -42,10 +42,10 @@ The user inputs four grades and their corresponding weights. The program calcula
 
 **Input exemple:**
 
-2 (Number of students)\
-Alex 1 (Student name and number of grades)\
-5 (Grade)\
-3 (Weight)\
+2 *(Number of students)*\
+Alex 1 *(Student name and number of grades)*\
+5 *(Grade)*\
+3 *(Weight)*\
 7\
 4\
 10\
@@ -70,9 +70,9 @@ Ana 2\
 
 **Input exemple:**
 
-2 (Number of students)\
-Ana_Silva 2 (Student name and number of grades)\
-Matemática 7 2 8 2 9 2 10 2 (Subject and its respective grades/weights)\
+2 *(Number of students)*\
+Ana_Silva 2 *(Student name and number of grades)*\
+Matemática 7 2 8 2 9 2 10 2 *(Subject and its respective grades/weights)*\
 Português 6 3 5 2 7 2 8 3\
 Bruno_Costa 2\
 História 5 2 6 2 7 3 8 3\
