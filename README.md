@@ -6,24 +6,37 @@ This repository contains PHP scripts that solve three different programming chal
 
 ---
 
-## 🧮 Activity 1: Arithmetic Mean of Natural Numbers
+## 🧮 Activity A: Weighted Grade Computation
 
 **📋 Description:**  
-The program reads a sequence of natural numbers from the user. When a negative number is entered, it calculates and prints the arithmetic mean of the entered values.
+The user inputs four grades and their corresponding weights. The program calculates the weighted average and prints the final grade.
 
 ### 🔹 Version 0.1
-- Reads numbers until a negative number is entered.
-- Calculates and prints the average.
-- No error handling or formatting.
+- Basic implementation using direct input and calculation.
+- No input checks.
+
+**How works:**
+- The program reads 8 inputs (grade followed by its weight)
+- Calculates the weighted average
+- Displays the result of the calculation
+
+**Input exemple:**
+10
+3
+10
+4
+5
+2
+5
+1
 
 ### 🔹 Version 0.2
-- Adds input validation.
-- Displays a specific message if no natural numbers were entered.
-- Handles edge cases gracefully.
+- Validates grades (0–10) and weights (1–5).
+- Displays the final grade with two decimal precision.
 
 ### 🔹 Version 0.3
-- Code refactored into functions for readability.
-- Improved formatting and user messages.
+- Refactored with separate functions for input, validation, and calculation.
+- Handles invalid input more gracefully and improves code structure.
 
 ---
 
