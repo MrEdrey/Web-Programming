@@ -59,7 +59,7 @@ Ana 2\
 4\
 ...
 
-### 🔹 Version 0.3
+### 🔹 Version 0.4
 - Version 0.4 includes improved input handling and better support for multiple subjects.
 
 **How works:**
