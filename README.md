@@ -42,6 +42,7 @@ The user inputs four grades and their corresponding weights. The program calcula
 - If there are more students, the program returns to the beginning.
 
 **Input exemple:**
+
 2 (Number of students)\
 Alex 1 (Student name and number of grades)\
 5 (Grade)\
