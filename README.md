@@ -58,6 +58,7 @@ Ana 2\
 3\
 10\
 4\
+
 ---
 
 ## 📶 Activity 2: Wi-Fi Password (Perfect Squares)
