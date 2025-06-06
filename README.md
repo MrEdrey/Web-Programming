@@ -23,19 +23,12 @@ The user inputs four grades and their corresponding weights. The program calcula
 **Input exemple:**
 
 10
-
 3
-
 10
-
 4
-
 5
-
 2
-
 5
-
 1
 
 ### 🔹 Version 0.2
